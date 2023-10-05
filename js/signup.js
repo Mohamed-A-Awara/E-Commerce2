@@ -1,4 +1,5 @@
-// Signup code 
+// SIGN UP JS CODE
+
 let username = document.getElementById("name") 
 let email = document.getElementById("email")
 let password = document.getElementById("pwd")
@@ -21,3 +22,9 @@ signUp.addEventListener("click",function(e){
         },1000)
     }
 })
+
+
+
+
+
+
